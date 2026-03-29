@@ -18,7 +18,7 @@ class AIPredictorApp:
         # --- UI Layout ---
         tk.Label(root, text="Daily Weather Input", font=("Arial", 14, "bold"), fg="cyan", bg="#1a1a1a").pack(pady=10)
 
-        # NEW: City Input
+        # City Input
         self.city_input = self.create_input("City Name:")
         # Pre-fill with last saved city if exists
         if "city" in self.history and self.history["city"]:
