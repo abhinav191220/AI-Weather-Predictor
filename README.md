@@ -1,4 +1,5 @@
 # 🌤️ Daily AI Weather Predictor
+*CSA 2001 : Fundament
 > **A Lightweight, Zero-Dependency Weather Forecasting Tool built in Python.**
 
 ## 🚀 Overview
