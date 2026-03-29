@@ -60,7 +60,7 @@ Since this project uses only standard libraries, setup is instant.
 ---
 
 ## 📁 Project Structure
-* `main.py`: Contains the `AIPredictorApp` class, UI logic, and Regression math.
+* `weather_predictor.py`: Contains the `AIPredictorApp` class, UI logic, and Regression math.
 * `weather_memory.json`: (Generated automatically) Stores your historical weather data logs.
 
 ## 🤝 Technical Requirements
