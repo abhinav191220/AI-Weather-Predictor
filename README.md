@@ -1,5 +1,5 @@
 # 🌤️ Daily AI Weather Predictor
-**||CSA 2001 : Fundamentals in AI and Ml  ||  Name :- Abhinav Singh  ||  Reg. No. :- 25BAI10303||**
+**|| CSA 2001 : Fundamentals in AI and Ml  ||  Name :- Abhinav Singh  ||  Reg. No. :- 25BAI10303||**
 > **A Lightweight, Zero-Dependency Weather Forecasting Tool built in Python.**
 
 ## 🚀 Overview
