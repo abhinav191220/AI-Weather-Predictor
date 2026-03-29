@@ -67,7 +67,6 @@ Since this project uses only standard libraries, setup is instant.
 * **Python 3.12.8**
 * **Modules:** `tkinter`, `json`, `os` (All included in standard Python installation).
 
-*Developed with a focus on algorithmic transparency and lightweight software design.*
 ---
 
 *Developed with a focus on algorithmic transparency and lightweight software design.*
