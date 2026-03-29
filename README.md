@@ -56,6 +56,7 @@ Since this project uses only standard libraries, setup is instant.
 3.  **Operation:**
     * Enter the current Weather stats (Temp, Humidity, AQI).
     * Click **Save & Predict**.
+    * **Do the step twice.**
     * The AI will update its memory and display the prediction for the next day in the blue display box.
 ---
 
