@@ -1,5 +1,5 @@
 # 🌤️ Daily AI Weather Predictor
-**Course: CSA2001 – Fundamentals of AI and ML    ||Student: Abhinav Singh Registration Number: 25BAI10303||**
+**Course: CSA2001 – Fundamentals of AI and ML    ||  Student: Abhinav Singh Registration Number: 25BAI10303  ||**
 > **A Lightweight, Zero-Dependency Weather Forecasting Tool built in Python.**
 
 ## 🚀 Overview
