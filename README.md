@@ -74,4 +74,4 @@ Since the project relies exclusively on the standard library, deployment is inst
 * **GUI Resolution:** Optimized for 550x920 High-DPI displays.
 
 ---
-*Developed with a focus on algorithmic transparency and lightweight software engineering.*dxc
+**Developed with a focus on algorithmic transparency and lightweight software engineering.**
