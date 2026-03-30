@@ -3,7 +3,7 @@
 > **A Lightweight, Zero-Dependency Weather Forecasting Tool built in Python.**
 
 ## 🚀 Overview
-The **Daily AI Weather Predictor** is a desktop application designed to track and forecast local weather conditions. It allows users to log daily Temperature, Humidity, and AQI (Air Quality Index) data, then uses a custom-built machine learning algorithm to predict tomorrow's values.
+The ** AI Weather Predictor** is a desktop application designed to track and forecast local weather conditions. It allows users to log daily Temperature, Humidity, and AQI (Air Quality Index) data, then uses a custom-built machine learning algorithm to predict tomorrow's values.
 
 This project was developed as a challenge to implement **Machine Learning from scratch** using only the Python Standard Library. 
 
