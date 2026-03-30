@@ -1,4 +1,4 @@
-<img width="689" height="941" alt="Screenshot 2026-03-30 190240" src="https://github.com/user-attachments/assets/64cfa56c-2244-451d-8157-223034980e58" /># 🌤️ AI Weather Predictor
+# 🌤️ AI Weather Predictor
 **|| CSA 2001 : Fundamentals in AI and ML  ||  Name :- Abhinav Singh  ||  Reg. No. :- 25BAI10303 ||**
 > **A Lightweight, Zero-Dependency Atmospheric Forecasting Suite built in Python.**
 
@@ -19,7 +19,7 @@ This project serves as a technical demonstration of **Machine Learning from firs
 The system’s predictive intelligence is powered by the `predict_next` method. It models the relationship between time ($x$) and the observed metric ($y$) using a **Simple Linear Regression** model:
 
 
-<img width="689" height="941" alt="Screenshot 2026-03-30 190240" src="https://github.com/user-attachments/assets/240a05d7-2138-4fc4-956d-82f29fecc9eb" />
+![imaged](https://github.com/user-attachments/assets/e53fba7a-771b-405f-bd37-88eb8838e8c4)
 
 
 $$y = mx + b$$
